@@ -40,7 +40,7 @@ setup(
         'database', 'server', 'ssh', 'rdp'
     ],
     install_requires=[
-        'grpcio==1.33.2',
+        'grpcio==1.49.1',
         'googleapis-common-protos==1.52.0',
     ],
     classifiers=[
